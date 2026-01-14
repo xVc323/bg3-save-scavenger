@@ -19,6 +19,17 @@ curl -fsSL https://raw.githubusercontent.com/xVc323/bg3-save-scavenger/refs/head
 ./fix_profile8.sh
 ```
 
+## Requirements
+
+- macOS auto-build needs `git` and `dotnet`
+- Script execution needs `python3`
+- Missing `git`/`dotnet` fails fast and leaves your file untouched
+- Quick install (macOS):
+  ```bash
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  brew install git dotnet python
+  ```
+
 ## Notes
 
 - Default path is auto‑detected under:
