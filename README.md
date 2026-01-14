@@ -1,8 +1,8 @@
 # BG3 Save Scavenger (macOS)
 
 Automates the `profile8.lsf` cleanup for Baldur's Gate 3 on macOS.
-This removes the `DisabledSingleSaveSessions` block(s) so Honour mode runs stop being flagged after a failure.
-In practice, it turns a failed Honour run (custom rules) back into Honour.
+This removes the `DisabledSingleSaveSessions` block(s) so Honor mode runs stop being flagged after a failure.
+In practice, it turns a failed Honor run (custom rules) back into Honor.
 The script finds `profile8.lsf`, backs it up twice, converts to LSX, edits the block, then converts back to LSF.
 
 ## One‑shot (curl | sh)
