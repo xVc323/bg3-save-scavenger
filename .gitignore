@@ -1,0 +1,16 @@
+.DS_Store
+*.log
+
+# Local artifacts / tests
+test/
+lslib/
+lslib-src/
+work*/
+
+# Game data
+*.lsf
+*.lsx
+*.bak.*
+profile8.lsf
+profile8.lsx
+GUIDE.md
