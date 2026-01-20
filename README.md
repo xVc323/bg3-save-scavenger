@@ -60,7 +60,7 @@ cd bg3-save-scavenger
 
 ## Notes
 
-- Default path is auto‑detected under:
+- macOS default path is auto‑detected under:
   `~/Documents/Larian Studios/Baldur's Gate 3/PlayerProfiles`
 - Windows default path is auto‑detected under:
   `%LOCALAPPDATA%\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public`
