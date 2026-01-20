@@ -9,7 +9,7 @@ The script finds `profile8.lsf`, backs it up twice, converts to LSX, edits the b
 > Use this at your own risk. Always make a manual backup before running, even though the script makes two backups.  
 > Larian could change save formats or validation at any time; if that happens, this tool may stop working or could damage saves.
 
-## Easiest way to run
+## Easiest way to run (Copy/Paste this in your terminal)
 
 - **macOS/Linux (Terminal)**
   ```bash
